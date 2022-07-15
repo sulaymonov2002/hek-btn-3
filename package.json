@@ -1,0 +1,19 @@
+{
+  "name": "hex-btn-3",
+  "version": "1.0.1",
+  "description": "random color",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulaymonov2002/hek-btn-3.git"
+  },
+  "author": "raxmonbek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulaymonov2002/hek-btn-3/issues"
+  },
+  "homepage": "https://github.com/sulaymonov2002/hek-btn-3#readme"
+}
